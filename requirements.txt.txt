@@ -1,0 +1,6 @@
+ ## Requirement
+ 1. Scikit-Learn
+ 2. Python 3
+ 3. Streamlit
+ 4. Numpy
+ 5. Matplotlib
